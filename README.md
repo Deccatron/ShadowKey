@@ -1,4 +1,4 @@
-# ShadowKey
+# ShadowKey, Developed by Deccatron
 -----------------------
 
 _ShadowKey is an open source invisible keylogger for Windows, Written in python_
